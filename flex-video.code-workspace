@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "flex-video",
+			"path": "flex-video"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
